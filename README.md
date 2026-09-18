@@ -34,7 +34,7 @@ Designed as a modern full-stack application, the project features a Python/FastA
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/anshere0/CV-24BAI10709-DriveGuard.git
+git clone https://github.com/AmeyaShukla503/Cv24bai10495driveguard.git
 cd DriveGuard
 ```
 
